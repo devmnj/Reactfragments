@@ -4,7 +4,7 @@ Hooks are a feature in Reactjs. The useState help us to add a state feature to a
 
 ### On this Project 
 
-* use useState Hook
+* useState Hook
 
 * functional component
 
