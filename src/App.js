@@ -1,11 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
-import HooksCounter from './HooksComponent'
+import React,{Component} from 'react'
+import RegularComponent from './RegularComponent'
+ 
 
 function App() {
   return (
-    <div className="App">
-      <HooksCounter/>
+    <div Fragment="App">
+  
+      <RegularComponent/>
+ 
     </div>
   );
 }
